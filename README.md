@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 # Odoo XML-RPC Client
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/alazzi-az/laraodoo-xmlrpc.svg?style=flat-square)](https://packagist.org/packages/alazzi-az/laraodoo-xmlrpc)
